@@ -1,0 +1,18 @@
+<?php
+
+namespace Database\Seeds;
+
+use Illuminate\Database\Seeds;
+
+class {{ class }} extends Seeds
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        //
+    }
+}
