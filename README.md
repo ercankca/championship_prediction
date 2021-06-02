@@ -5,11 +5,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-#Getting Started
+# Getting Started
 
 `git clone https://github.com/ercankca/championship_prediction.git`
 
-#Şampiyonluk Tahmini
+# Şampiyonluk Tahmini
 
 # Installation
 
@@ -19,7 +19,7 @@
 
 `php artisan migrate --seed`
 
-#Running the tests
+# Running the tests
 
 `vendor/bin/phpunit`
 
