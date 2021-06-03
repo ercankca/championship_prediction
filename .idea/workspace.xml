@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75df46c7-7c01-42db-8d97-6e0f193eea95" name="Default Changelist" comment="" />
+    <list default="true" id="75df46c7-7c01-42db-8d97-6e0f193eea95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,9 +154,9 @@
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="319" />
-    <option name="y" value="156" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="y" value="136" />
     <option name="width" value="839" />
     <option name="height" value="544" />
   </component>
@@ -218,18 +220,18 @@
       <option name="presentableId" value="Default" />
       <updated>1622625150551</updated>
       <workItem from="1622625151747" duration="2856000" />
-      <workItem from="1622715746226" duration="607000" />
+      <workItem from="1622715746226" duration="1253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3463000" />
+    <option name="totallyTimeSpent" value="4109000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-6" y="136" width="839" height="544" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81707317" visible="true" weight="0.19969743" />
-      <window_info id="Structure" order="1" sideWeight="0.18292683" side_tool="true" visible="true" weight="0.19969743" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8142857" visible="true" weight="0.338896" />
+      <window_info id="Structure" order="1" sideWeight="0.18571429" side_tool="true" visible="true" weight="0.338896" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" />
@@ -243,7 +245,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49621785" weight="0.049099836" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4924357" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4924357" visible="true" weight="0.4890511" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5075643" side_tool="true" weight="0.3289689" />
       <window_info active="true" anchor="bottom" id="Command Line Tools Console" order="13" sideWeight="0.62441677" visible="true" weight="0.32972974" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
